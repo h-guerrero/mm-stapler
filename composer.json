@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "eichgi/stapler": "1.2.*",
+        "eichgi/stapler": "1.*",
         "laravel/framework": "4.*|5.*"
     },
     "autoload": {
